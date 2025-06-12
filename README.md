@@ -40,7 +40,6 @@ The dataset includes 14,999 employee records and covers:
 ## 📊 Exploratory Data Analysis (EDA)
 
 ### 1. Employee Tenure
-![Employee Tenure](output_8_0.png)
 ![Employee Tenure Distribution](output_2_0.png)
 
 - Most employees have worked between 3 and 5 years.  
