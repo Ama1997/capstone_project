@@ -1,5 +1,19 @@
-# HR Analytics: Employee Attrition Analysis and Prediction
+# Google Advanced Data Analytics Capstone Project.
+# Salifort Motors Employee Turnover Analysis  
 
+This project is the final capstone in the Google Advanced Data Analytics Certificate.  
+It explores patterns in employee turnover at Salifort Motors using real-world HR data.
+The goal is to predict which employees are at risk of leaving and identify what drives attrition.  
+This supports HR in creating targeted retention strategies using data-backed evidence.
+
+---
+
+## Objectives
+
+- Predict which employees are likely to leave the company  
+- Identify key factors influencing turnover  
+- Build and evaluate machine learning models for risk prediction  
+- Provide actionable recommendations for HR decision-making
 ##  Overview
 
 This project analyses employee data from Salifort Motors to uncover factors driving staff attrition and build machine learning models to predict which employees are likely to leave. The goal is to support HR decisions with data-led insights and improve retention.
