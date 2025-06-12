@@ -1,6 +1,6 @@
 # HR Analytics: Employee Attrition Analysis and Prediction
 
-## 📘 Overview
+##  Overview
 
 This project analyses employee data from Salifort Motors to uncover factors driving staff attrition and build machine learning models to predict which employees are likely to leave. The goal is to support HR decisions with data-led insights and improve retention.
 
@@ -8,13 +8,13 @@ This project analyses employee data from Salifort Motors to uncover factors driv
 
 ---
 
-## 🏢 Business Context
+##  Business Context
 
 Staff turnover is costly and disruptive. Salifort Motors’ HR team wants to identify employees at risk of leaving and understand the reasons behind their decisions. This will allow the company to proactively reduce recruitment costs and retain experienced staff.
 
 ---
 
-## 🧹 Data Cleaning
+##  Data Cleaning
 
 The dataset includes 14,999 employee records and covers:
 
@@ -37,7 +37,7 @@ The dataset includes 14,999 employee records and covers:
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 
 ### 1. Employee Tenure
 ![Employee Tenure Distribution](output_2_0.png)
@@ -135,7 +135,7 @@ The dataset includes 14,999 employee records and covers:
 
 ---
 
-## 🧠 Model Training & Evaluation
+##  Model Training & Evaluation
 
 ### Logistic Regression  
 ![Logistic Confusion Matrix](output_19_1.png)
@@ -157,7 +157,7 @@ The dataset includes 14,999 employee records and covers:
 
 ---
 
-## ✅ Key Recommendations
+##  Key Recommendations
 
 - **Monitor Satisfaction Levels**  
   Employees with satisfaction <0.5 are at risk. Use pulse surveys and act on findings.
@@ -176,7 +176,7 @@ The dataset includes 14,999 employee records and covers:
 
 ---
 
-## 🔐 Ethical Considerations
+##  Ethical Considerations
 
 - Use model outputs to support—not punish—employees.  
 - Protect confidentiality.  
@@ -185,7 +185,7 @@ The dataset includes 14,999 employee records and covers:
 ---
 
 
-## 🧠 Final Thoughts
+##  Final Thoughts
 
 Satisfaction, tenure, and workload are the strongest drivers of attrition.  
 The Random Forest model delivers near-perfect classification, making it a powerful tool for proactive HR decisions.
